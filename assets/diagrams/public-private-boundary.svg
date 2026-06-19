@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+  <title id="title">AIXYZ public private boundary</title>
+  <desc id="desc">Diagram showing public GitHub materials separated from protected private engine materials.</desc>
+  <rect width="1200" height="620" fill="#0d1117"/>
+  <style>
+    .panel{fill:#151b23;stroke-width:3;rx:24}
+    .public{stroke:#8DB600}
+    .private{stroke:#ff6b6b}
+    .title{fill:#f5f7fb;font:700 30px Arial,sans-serif;text-anchor:middle}
+    .item{fill:#d8dee9;font:500 21px Arial,sans-serif}
+    .small{fill:#aab6c5;font:400 17px Arial,sans-serif;text-anchor:middle}
+    .line{stroke:#A7C957;stroke-width:4;stroke-dasharray:10 8}
+  </style>
+  <text x="600" y="55" class="title">AIXYZ Public Surface / Private Engine</text>
+  <rect x="70" y="105" width="480" height="390" class="panel public"/>
+  <rect x="650" y="105" width="480" height="390" class="panel private"/>
+  <text x="310" y="155" class="title" style="font-size:26px">Public GitHub Surface</text>
+  <text x="890" y="155" class="title" style="font-size:26px">Protected Private Engine</text>
+  <text x="120" y="220" class="item">README and project docs</text>
+  <text x="120" y="270" class="item">Public-safe visuals</text>
+  <text x="120" y="320" class="item">Workflow diagrams</text>
+  <text x="120" y="370" class="item">WordPress page draft</text>
+  <text x="120" y="420" class="item">Ownership policies</text>
+  <text x="700" y="220" class="item">Source code</text>
+  <text x="700" y="270" class="item">Prompts and agent instructions</text>
+  <text x="700" y="320" class="item">Credentials and account dashboards</text>
+  <text x="700" y="370" class="item">Client data and receipts</text>
+  <text x="700" y="420" class="item">Deployment infrastructure</text>
+  <line x1="600" y1="105" x2="600" y2="495" class="line"/>
+  <text x="600" y="545" class="small">No source release. No training permission. No commercial reuse. Receipts remain protected unless explicitly exported.</text>
+</svg>
+

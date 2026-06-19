@@ -1,0 +1,11 @@
+flowchart LR
+  Visitor["Visitor or Buyer"] --> PublicSite["AIXYZ Public Site"]
+  PublicSite --> Demo["Public-Safe Demo"]
+  PublicSite --> Offers["Fiverr Offer Pages"]
+  PublicSite --> Intake["Contact / Intake"]
+  Intake --> Review["Owner Review"]
+  Review --> PrivateOps["Protected Operations"]
+  PrivateOps --> Receipts["Private Receipts"]
+  Receipts --> Status["Public-Safe Status Updates"]
+  Status --> PublicSite
+

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">AIXYZ workflow overview</title>
+  <desc id="desc">Public visitor flow from AIXYZ site through demos, offers, intake, owner review, protected operations, receipts, and public-safe status updates.</desc>
+  <rect width="1200" height="520" fill="#0d1117"/>
+  <style>
+    .box{fill:#151b23;stroke:#8DB600;stroke-width:3;rx:18}
+    .text{fill:#f5f7fb;font:700 24px Arial,sans-serif;text-anchor:middle}
+    .sub{fill:#b7c2d0;font:400 15px Arial,sans-serif;text-anchor:middle}
+    .arrow{stroke:#A7C957;stroke-width:4;fill:none;marker-end:url(#arrow)}
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#A7C957"/>
+    </marker>
+  </defs>
+  <text x="600" y="54" class="text" style="font-size:34px">AIXYZ Public Workflow</text>
+  <g transform="translate(50 110)">
+    <rect class="box" width="190" height="86"/><text class="text" x="95" y="39">Visitor</text><text class="sub" x="95" y="64">buyer or reviewer</text>
+  </g>
+  <g transform="translate(295 110)">
+    <rect class="box" width="190" height="86"/><text class="text" x="95" y="39">Public Site</text><text class="sub" x="95" y="64">aixyz.tech</text>
+  </g>
+  <g transform="translate(540 55)">
+    <rect class="box" width="190" height="86"/><text class="text" x="95" y="39">Demo</text><text class="sub" x="95" y="64">public-safe proof</text>
+  </g>
+  <g transform="translate(540 165)">
+    <rect class="box" width="190" height="86"/><text class="text" x="95" y="39">Offers</text><text class="sub" x="95" y="64">Fiverr pages</text>
+  </g>
+  <g transform="translate(785 110)">
+    <rect class="box" width="190" height="86"/><text class="text" x="95" y="39">Intake</text><text class="sub" x="95" y="64">contact and leads</text>
+  </g>
+  <g transform="translate(540 330)">
+    <rect class="box" width="190" height="86"/><text class="text" x="95" y="39">Protected Ops</text><text class="sub" x="95" y="64">private engine</text>
+  </g>
+  <g transform="translate(785 330)">
+    <rect class="box" width="190" height="86"/><text class="text" x="95" y="39">Receipts</text><text class="sub" x="95" y="64">private evidence</text>
+  </g>
+  <path class="arrow" d="M240 153 H295"/>
+  <path class="arrow" d="M485 153 C510 110 520 98 540 98"/>
+  <path class="arrow" d="M485 153 C510 195 520 208 540 208"/>
+  <path class="arrow" d="M730 98 C765 103 770 120 785 153"/>
+  <path class="arrow" d="M730 208 C765 205 770 185 785 153"/>
+  <path class="arrow" d="M880 196 C850 282 740 330 690 330"/>
+  <path class="arrow" d="M730 373 H785"/>
+</svg>
+

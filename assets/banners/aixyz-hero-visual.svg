@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">XXYYZZ Society hero visual</title>
+  <desc id="desc">Project-specific hero visual using tactile catalog system and poster-like stacked sections.</desc>
+  <rect width="1200" height="760" fill="#F1F0EA"/>
+  <path d="M0 580C220 420 370 380 560 418c160 32 256 8 382-104 76-68 156-102 258-104v550H0Z" fill="#D5DAE5"/>
+  <circle cx="900" cy="180" r="180" fill="#274C77" opacity="0.18"/>
+  <rect x="92" y="92" width="410" height="300" rx="38" fill="#10131A"/>
+  <path d="M142 142h228v228H142V142Zm36 36v156h156V178H178Z" transform="translate(68 44) scale(.78)" fill="#274C77"/>
+  <rect x="570" y="128" width="520" height="72" rx="36" fill="#10131A" opacity="0.92"/>
+  <rect x="570" y="236" width="370" height="42" rx="21" fill="#B9893C" opacity="0.78"/>
+  <rect x="570" y="312" width="462" height="42" rx="21" fill="#687082" opacity="0.32"/>
+  <rect x="94" y="484" width="1008" height="170" rx="34" fill="#F1F0EA" opacity="0.88"/>
+  <text x="110" y="560" fill="#687082" font-family="Arial, sans-serif" font-size="24">classname</text><text x="390" y="560" fill="#687082" font-family="Arial, sans-serif" font-size="24">aixyz</text><text x="670" y="560" fill="#687082" font-family="Arial, sans-serif" font-size="24">task</text><text x="110" y="618" fill="#687082" font-family="Arial, sans-serif" font-size="24">for</text><text x="390" y="618" fill="#687082" font-family="Arial, sans-serif" font-size="24">string</text><text x="670" y="618" fill="#687082" font-family="Arial, sans-serif" font-size="24">worker</text>
+</svg>

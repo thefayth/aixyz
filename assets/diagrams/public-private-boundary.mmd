@@ -1,0 +1,19 @@
+flowchart TB
+  subgraph Public["Public GitHub Surface"]
+    Readme["README and project docs"]
+    Images["Public-safe visuals"]
+    Diagrams["Workflow diagrams"]
+    WordPress["WordPress page draft"]
+  end
+
+  subgraph Private["Protected Private Engine"]
+    Source["Source code"]
+    Prompts["Prompts and agent instructions"]
+    Accounts["Account dashboards and credentials"]
+    Data["Client data and receipts"]
+    Deploy["Deployment infrastructure"]
+  end
+
+  Public --> Boundary["Public/private boundary"]
+  Boundary -. "No source release" .-> Private
+
