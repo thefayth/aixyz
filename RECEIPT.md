@@ -45,6 +45,10 @@ See `docs/IMAGE_ASSET_AUDIT.md`.
 
 Workflow diagrams were created in Mermaid and SVG formats.
 
+## GitHub Status
+
+Published to `https://github.com/thefayth/aixyz` on `main`.
+
 ## WordPress Status
 
 Draft page and metadata created under `wordpress/`. Not published.
@@ -57,4 +61,3 @@ READY AFTER FAITH REVIEW.
 
 Review the public copy and screenshots, then connect the repository from
 FaithCheltenham.com at `/projects/aixyz/`.
-

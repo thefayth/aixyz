@@ -11,7 +11,8 @@
 
 ## Public Surface
 
-Prepared for GitHub publication.
+Published to GitHub as a protected public surface. This repository is a
+portfolio and project reference, not a source-code release.
 
 ## Live Site
 
@@ -31,4 +32,3 @@ Known remaining protected gates:
 ## Privacy Status
 
 READY AFTER FAITH REVIEW.
-
