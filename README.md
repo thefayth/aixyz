@@ -1,6 +1,6 @@
 # AIXYZ
 
-![AIXYZ project banner](assets/banners/aixyz-hero.jpg)
+![AIXYZ hero image](assets/hero/hero-image.png)
 
 **AIXYZ** is Faith Cheltenham's AI web studio surface for public-safe demos,
 Fiverr offer pages, AI receptionist workflows, and WordPress-powered business
@@ -16,6 +16,8 @@ do before they buy. AIXYZ shows the public layer: clear offers, demos, lead
 capture paths, receptionist handoffs, and owner dashboards, while keeping the
 private engine, client records, credentials, and operations infrastructure
 protected.
+
+![AIXYZ GitHub banner](assets/banners/github-banner.jpg)
 
 ## Who It Is For
 
@@ -84,4 +86,3 @@ Copyright (c) Faith Cheltenham. All rights reserved.
 No source release. No public license. No redistribution. No commercial reuse. No
 AI training permission. See [LICENSE.md](LICENSE.md), [NOTICE.md](NOTICE.md),
 and [COMMERCIAL_USE_POLICY.md](docs/COMMERCIAL_USE_POLICY.md).
-

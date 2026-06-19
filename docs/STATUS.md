@@ -8,6 +8,7 @@
 - Version status: canonical first public surface
 - Repository owner: `thefayth`
 - Repository name: `thefayth/aixyz`
+- Repository URL: `https://github.com/thefayth/aixyz`
 
 ## Public Surface
 

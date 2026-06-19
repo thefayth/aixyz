@@ -15,7 +15,7 @@ private engine, source code, receipts, credentials, and client workflows remain
 protected.
 
 Featured image recommendation:
-`assets/banners/aixyz-hero.jpg`
+`assets/hero/hero-image.png`
 
 Featured image alt text:
 AIXYZ AI web studio hero image with bold dark interface styling and apple green
@@ -23,4 +23,3 @@ accent color.
 
 Canonical public GitHub repository:
 `https://github.com/thefayth/aixyz`
-

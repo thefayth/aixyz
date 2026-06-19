@@ -6,7 +6,7 @@ AIXYZ is Faith Cheltenham's AI web studio surface for public-safe demos, Fiverr
 offer pages, receptionist workflows, and WordPress-powered business automation.
 
 Featured image recommendation:
-`assets/banners/aixyz-hero.jpg`
+`assets/hero/hero-image.png`
 
 ## What This Project Is
 
@@ -76,4 +76,3 @@ is granted.
 
 - AIXYZ: https://aixyz.tech
 - Faith Cheltenham: https://faithcheltenham.com
-

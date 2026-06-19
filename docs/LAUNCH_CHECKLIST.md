@@ -6,6 +6,7 @@
 - [x] Base project slug: `aixyz`
 - [x] Chosen repo slug: `aixyz`
 - [x] Repository: `thefayth/aixyz`
+- [x] Repository URL: `https://github.com/thefayth/aixyz`
 - [x] Version status: canonical first public surface
 
 ## Public Surface
@@ -17,6 +18,11 @@
 - [x] Workflow diagrams
 - [x] Brand notes
 - [x] Image audit
+- [x] Canva asset plan
+- [x] Hero image
+- [x] GitHub banner
+- [x] Social card
+- [x] Project icon
 - [x] WordPress draft
 - [x] Privacy review
 - [x] Receipt
@@ -34,4 +40,3 @@
 
 - [ ] Faith review of public copy and screenshots.
 - [ ] Optional final public status refresh after private launch receipts close.
-

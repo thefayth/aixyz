@@ -19,10 +19,22 @@
 - `CONTRIBUTING.md`
 - `docs/*`
 - `assets/banners/*`
+- `assets/hero/*`
 - `assets/social/*`
 - `assets/gallery/*`
+- `assets/icons/*`
 - `assets/diagrams/*`
 - `assets/image-prompts/*`
+- `wordpress/page.md`
+- `wordpress/meta.md`
+
+## Files Modified
+
+- `README.md`
+- `RECEIPT.md`
+- `docs/IMAGE_ASSET_AUDIT.md`
+- `docs/LAUNCH_CHECKLIST.md`
+- `docs/STATUS.md`
 - `wordpress/page.md`
 - `wordpress/meta.md`
 
@@ -40,6 +52,10 @@
 
 Existing public-safe visuals were reused. No replacement images were generated.
 See `docs/IMAGE_ASSET_AUDIT.md`.
+
+Selected visuals include the AIXYZ hero image, GitHub banner, social card,
+project icon, homepage screenshot, Brandi demo screenshot, Fiverr offer
+screenshot, and workflow graphic.
 
 ## Workflow Status
 
